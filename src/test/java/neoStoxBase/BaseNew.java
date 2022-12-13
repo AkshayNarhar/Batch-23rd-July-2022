@@ -25,7 +25,7 @@ public class BaseNew
 		UtilityNew.wait(driver, 1000);
 		
 		
-		
+		//Launching browser
 		Reporter.log("launching browser..",true);
 	}
 	
